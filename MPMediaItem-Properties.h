@@ -26,7 +26,7 @@
 @property (nonatomic, readonly) NSInteger discNumber;
 @property (nonatomic, readonly) NSInteger discCount;
 
-@property (nonatomic, readonly) UIImage *artwork;
+//@property (nonatomic, readonly) UIImage *artwork;
 
 @property (nonatomic, readonly) NSString *lyrics;
 
